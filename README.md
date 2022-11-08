@@ -14,7 +14,7 @@ y los usuarios...
 ```
 apt-get update -y;
 apt-get upgrade -y;
-wget https://raw.githubusercontent.com/Drakxard/SSHPLUS-MANAGER-FREE/master/Plus;
+wget https://raw.githubusercontent.com/Drakxard/SSHPLUS-MANAGER-FREE/Plus;
 chmod 777 Plus; ./Plus
 ```
 SSHPLUS MANAGER (las dependencias faltantes se instalarán automáticamente)
